@@ -1,3 +1,0 @@
-package com.example.demo.model;
-
-public enum Role { GUEST, RESIDENT, SECURITY_GUARD, MAINTENANCE_STAFF, APARTMENT_MANAGER, ADMINISTRATOR }
